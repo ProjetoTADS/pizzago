@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018318512189",
+    "firebase_url": "https://go-pizza-1ecb6.firebaseio.com",
+    "project_id": "go-pizza-1ecb6",
+    "storage_bucket": "go-pizza-1ecb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018318512189:android:92a52922f7965758",
+        "android_client_info": {
+          "package_name": "stringdevelopment.com.br.gopizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018318512189-d837hkf5n8k8tpk81adk82g138ic3676.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stringdevelopment.com.br.gopizza",
+            "certificate_hash": "1caaf1ef065cfab8f5e373a521fffb33dd9e0546"
+          }
+        },
+        {
+          "client_id": "1018318512189-tblu06sjgg499r69007898p807pbm78d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDrSZsctIVss4Cl69QDq1o3tmkd9M5Qo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018318512189-tblu06sjgg499r69007898p807pbm78d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
