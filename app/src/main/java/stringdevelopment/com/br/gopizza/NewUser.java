@@ -77,9 +77,7 @@ public class NewUser extends AppCompatActivity {
                                         new SweetAlertDialog(NewUser.this, SweetAlertDialog.SUCCESS_TYPE)
                                                 .setTitleText("Sucesso!")
                                                 .setContentText("Usuário cadastrado!")
-                                                .setConfirmText("Yes,delete it!")
-                                                .showCancelButton(true)
-                                                .setCancelClickListener(new SweetAlertDialog.OnSweetClickListener() {
+                                                .setConfirmClickListener(new SweetAlertDialog.OnSweetClickListener() {
                                                     @Override
                                                     public void onClick(SweetAlertDialog sDialog) {
                                                         Intent intent = new Intent(NewUser.this, permitionScreen.class);
