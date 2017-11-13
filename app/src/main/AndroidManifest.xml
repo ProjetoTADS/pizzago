@@ -24,7 +24,8 @@
             android:name=".MainActivity"
             android:screenOrientation="portrait" />
         <activity android:name=".NewUser" />
-        <activity android:name=".permitionScreen"></activity>
+        <activity android:name=".permitionScreen" />
+        <activity android:name=".MenuCliente"></activity>
     </application>
 
 </manifest>
